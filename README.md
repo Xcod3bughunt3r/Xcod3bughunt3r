@@ -10,8 +10,6 @@
 <h2><b><i>Hello, this is ALIF FUSOBAR.</i></b></h2>
 <h4><b><i>I am a Professional Ethical Hacker, Penetration Tester, Digital Forensics & Back End Developer. The personal laptop that I use for everyday is a laptop that uses an Intel Core i7 processor with the Kali Linux 2022.2+ distro. I am over 8+ years in IT world.  For now, in programming world, I love bash programming, python programming & PHP Programming.</i><b></h4>
 
-<b><script src="https://tryhackme.com/badge/1218312" alt="TryHackMe"></script></b>
-
 ****
 
 <h2><b><i>🏆 Github Statistics:</i></b></h2>

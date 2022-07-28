@@ -13,8 +13,6 @@
 <h2><b><i>🏆 Profile Statistics:</i></b></h2>
 <a href="https://github.com/Xcod3bughunt3r"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Xcod3bughunt3r&color=blueviolet&style=flat-square"></a>
 
-<br>
-
 <h2><b><i>☠ Works Tools:</i></b></h2>
 <h5><li><i><a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
 <li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
@@ -22,8 +20,6 @@
 <li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
 <li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
 <li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a></i><h5>
-  
- <br>
 
 <h2><b><i>🌐 My Social Link's:</i></b></h2>
 <h5><li><i><a href="https://hackerone.com/xcod3bughunt3r">HackerOne</a></li>

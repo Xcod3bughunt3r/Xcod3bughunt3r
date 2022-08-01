@@ -15,7 +15,7 @@
 
 <h2><b><i>☠ Works Tools:</i></b></h2>
 <h5><li><i><a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
+<li> <a href="https://github.com/Xcod3bughunt3r/Hacker-Tools-Me">HackTools - Linux & Windows.</a>
 <li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
 <li> <a href="https://github.com/Xcod3bughunt3r/Commando-VM/blob/f4a06513583638883e7723296eae4b26280959d2/README.md">Commando-VM.</a>
 <li> <a href="https://github.com/Xcod3bughunt3r/PentesterToolsFramework/blob/a3c00f134691cd721f68775f21f10547e9db8994/README.md">PTF - Pentester Tools Framework.</a>

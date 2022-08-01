@@ -33,7 +33,6 @@
 <li><a href="https://www.facebook.com/profile.php?id=100082527189835">Facebook</a></li>
 <li><a href="https://tiktok.com/xcod3bughunt3r">TikTok</a></li>
 <li><a href="https://www.youtube.com/channel/UCDRFcjutewkhAioAuqTB5wg">YouTube</a></li>
-<li><a href="master@itsecurity.id">Emails</a></li>
 <li><a href="https://itsecurity.id">Master Of ITSecurity</a></li></i></h5>
 
 <h1><i>FUCK ALL THE LICENSES AVAILABLE</i></h1>

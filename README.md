@@ -9,7 +9,7 @@
 <h4><b><i>I am a Professional Ethical Hacker, Penetration Tester, Digital Forensics & Back End Developer. The personal laptop that I use for everyday is a laptop that uses an Intel Core i7 processor with the Kali Linux 2022.2+ distro. I am over 8+ years in IT world.  For now, in programming world, I love bash programming, python programming & PHP Programming.</i><b></h4>
 
 <h2><b><i>🏆 Github Statistics:</i></b></h2>
-<a href="https://github.com/Xcod3bughunt3r"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Xcod3bughunt3r&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/Xcod3bughunt3r"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Xcod3bughunt3r&theme=dracula&no-frame=true&title=Stars,Commit,Repository"/></a>
 <h2><b><i>🏆 Profile Statistics:</i></b></h2>
 <a href="https://github.com/Xcod3bughunt3r"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Xcod3bughunt3r&color=blueviolet&style=flat-square"></a>
 
